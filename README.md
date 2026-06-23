@@ -58,6 +58,12 @@ Payment
 ↓
 Ticket Booking Confirmation
 
+##Future Improvements
+GUI using Java Swing/JavaFX
+Online payment integration
+Admin dashboard
+Ticket PDF generation
+
 
 ## How to Run
 
@@ -96,13 +102,14 @@ Add MySQL JDBC connector jar file to the project libraries.
 
 Run:
 Main.java
+```
+## Future Improvements
 
-**##Future Improvements**
-GUI using Java Swing/JavaFX
-Online payment integration
-Admin dashboard
-Ticket PDF generation
+- GUI using Java Swing/JavaFX
+- Online payment integration
+- Admin dashboard
+- Ticket PDF generation
 
-**##Author**
+## Author
 
 Anshu Mane
