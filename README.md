@@ -95,13 +95,14 @@ Add MySQL JDBC connector jar file to the project libraries.
 5. Run the Project
 
 Run:
-
 Main.java
-Future Improvements
+
+**##Future Improvements**
 GUI using Java Swing/JavaFX
 Online payment integration
 Admin dashboard
 Ticket PDF generation
-Author
+
+**##Author**
 
 Anshu Mane
